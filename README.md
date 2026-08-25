@@ -15,8 +15,8 @@ customer needs with hands-on delivery and clear technical enablement.
 
 ## Public projects
 
-- [azure-enterprise-policy-baseline](https://github.com/AoS-ssb/azure-enterprise-policy-baseline) — deployable
+- [azure-enterprise-policy-baseline](https://github.com/kevo099/azure-enterprise-policy-baseline) — deployable
   Azure Policy baseline: 16 custom definitions + initiative, lifecycle scripts, CI validation
-  ([v1.0.0](https://github.com/AoS-ssb/azure-enterprise-policy-baseline/releases/tag/v1.0.0))
-- [Snake](https://github.com/AoS-ssb/snake-game) — a compact HTML5 Canvas
+  ([v1.0.0](https://github.com/kevo099/azure-enterprise-policy-baseline/releases/tag/v1.0.0))
+- [Snake](https://github.com/kevo099/snake-game) — a compact HTML5 Canvas
   implementation of the classic game
