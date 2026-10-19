@@ -15,8 +15,14 @@ customer needs with hands-on delivery and clear technical enablement.
 
 ## Public projects
 
-- [azure-enterprise-policy-baseline](https://github.com/kevo099/azure-enterprise-policy-baseline) — deployable
-  Azure Policy baseline: 16 custom definitions + initiative, lifecycle scripts, CI validation
-  ([v1.0.0](https://github.com/kevo099/azure-enterprise-policy-baseline/releases/tag/v1.0.0))
+- **Azure governance suite** — live-tested policy as code and guarded Azure Automation
+  ([suite overview](https://github.com/kevo099/azure-enterprise-policy-baseline/blob/main/docs/SUITE.md)):
+  - [azure-enterprise-policy-baseline](https://github.com/kevo099/azure-enterprise-policy-baseline) — 16 custom
+    Azure Policy definitions + initiative, lifecycle scripts, an Azure Files backup reconciler and an
+    end-to-end Policy + Automation canary ([latest release](https://github.com/kevo099/azure-enterprise-policy-baseline/releases/latest))
+  - [azure-backup-smart-tiering-automation](https://github.com/kevo099/azure-backup-smart-tiering-automation) —
+    audit-first runbook that enables Azure Backup smart tiering on eligible VM backup policies, one verified ring at a time
+  - [azure-storage-smart-tier-automation](https://github.com/kevo099/azure-storage-smart-tier-automation) —
+    audit-first runbook that enables Blob Storage smart tier on opted-in storage accounts
 - [Snake](https://github.com/kevo099/snake-game) — a compact HTML5 Canvas
   implementation of the classic game
