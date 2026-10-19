@@ -24,5 +24,8 @@ customer needs with hands-on delivery and clear technical enablement.
     audit-first runbook that enables Azure Backup smart tiering on eligible VM backup policies, one verified ring at a time
   - [azure-storage-smart-tier-automation](https://github.com/kevo099/azure-storage-smart-tier-automation) —
     audit-first runbook that enables Blob Storage smart tier on opted-in storage accounts
+  - [azure-update-manager-linux-patching](https://github.com/kevo099/azure-update-manager-linux-patching) —
+    live-tested Azure Update Manager setup for Linux: policy onboarding, patch rings, pre-patch snapshots,
+    change-freeze cancels and per-machine alerts
 - [Snake](https://github.com/kevo099/snake-game) — a compact HTML5 Canvas
   implementation of the classic game
